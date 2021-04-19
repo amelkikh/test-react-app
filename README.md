@@ -14,11 +14,11 @@ npm start
 
 
 ## TOOD: Server
-[] JWT/Bearer
-[] Rate limit
-[] Swagger
+- JWT/Bearer
+- Rate limit
+- Swagger
 
 ## TOOD: Client
-[] ESLint
-[] Redux
-[] Jest
+- ESLint
+- Redux
+- Jest
